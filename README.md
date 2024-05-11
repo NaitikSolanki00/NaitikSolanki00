@@ -16,7 +16,7 @@
 > 
 > 🔭 I’m currently learning: React Native Development.
 
-> 👨‍💻 Check out my portfolio at: [Naitik Solanki](https://www.upwork.com/freelancers/~01c130d8857a0b862e?mp_source=share)
+> 👨‍💻 Check out my portfolio at: [Naitik Solanki](https://www.behance.net/gallery/197839505/Portfolio-showcase)
 > 
 > 📫 Reach me at: **solankinaitik00@gmail.com**
 </div>
