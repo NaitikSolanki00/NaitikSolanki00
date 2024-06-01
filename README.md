@@ -10,7 +10,7 @@
 
 > 🚀 A professional Front-End Developer.
 >
-> 💻 Over 2+ years of development experience.
+> 💻 Over 3+ years of development experience.
 > 
 > 📘 Currently pursuing my Master's in Computer Application.
 > 
