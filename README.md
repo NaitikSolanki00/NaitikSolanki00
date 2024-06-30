@@ -24,7 +24,7 @@
 
 <div align="left">
 	<h3>Languages, Frameworks, and Tools:</h3>
-    	<img src="https://skillicons.dev/icons?i=html,xhtml,xml,css,scss,bootstrap,javascript,react,visualstudio,git,github" />
+    	<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,javascript,react,visualstudio,git,github" />
 </div>
 
 <div align="left">
