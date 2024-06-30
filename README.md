@@ -11,11 +11,7 @@
 > 🚀 A professional Front-End Developer.
 >
 > 💻 Over 3+ years of development experience.
-> 
-> 📘 Currently pursuing my Master's in Computer Application.
-> 
-> 🔭 I’m currently learning: React Native Development.
-
+>
 > 👨‍💻 Check out my portfolio at: [Naitik Solanki](https://www.behance.net/gallery/197839505/Portfolio-showcase)
 > 
 > 📫 Reach me at: **solankinaitik00@gmail.com**
@@ -28,7 +24,7 @@
 
 <div align="left">
 	<h3>Languages, Frameworks, and Tools:</h3>
-    	<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,visualstudio,git,github" />
+    	<img src="https://skillicons.dev/icons?i=html,xhtml,xml,css,scss,bootstrap,javascript,react,visualstudio,git,github" />
 </div>
 
 <div align="left">
